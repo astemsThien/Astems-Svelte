@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/.svelte.kit
+/package
+.env
+.env.*
+!.env.example
+/logs
+/src/lib/oracle/instantclient_21_7
+/src/lib/oracle/oracleConfig.js
